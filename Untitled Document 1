@@ -1,0 +1,8 @@
+192.168.1.17 magma.test.localhost
+192.168.1.17 magma-test.localhost
+192.168.1.17 magma.test
+192.168.1.17 magma
+192.168.1.17 magma-test
+192.168.1.17 bootsrapper-controller.magma.test
+192.168.1.17 controller.magma.test
+192.168.1.17 fluentd.magma.test
